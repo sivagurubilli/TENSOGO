@@ -1,0 +1,25 @@
+
+
+.cont1{
+    width: 40%;
+   
+    margin-left: 40%;
+
+}
+
+.cont2{
+    margin-top: 20px;
+}
+
+.h1{
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+.update{
+    margin: 50px;
+    width: 130px;
+    height: 40px;
+    background-color: white;
+    color: blue;
+}

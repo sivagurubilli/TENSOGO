@@ -1,0 +1,47 @@
+.heading{
+    text-align: center;
+    color: green;
+}
+
+.card{
+    width:250px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+  height: 300px;
+}
+
+.card img{
+    width:220px;
+height: 150px;
+
+}
+
+.container{
+    width: 80%;
+   
+   
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 10%;
+    padding: 20px;
+   
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+        grid-gap: 20px; /* Gap between grid items */
+    
+      
+}
+
+.button{
+    color: blue;
+    background-color: white;
+    height: 60px;
+    width: 100px;
+   
+    border-radius: 20px;
+}
+
+.container1{
+  text-align: center;
+}
